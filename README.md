@@ -1,2 +1,2 @@
 # Dezhou-Poker
-A awesome poke game~
+# This is the source for the Github Pages

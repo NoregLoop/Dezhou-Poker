@@ -1,2 +1,2 @@
 # Dezhou-Poker
-A awesome poke game~
+A awesome poke game is designing~
